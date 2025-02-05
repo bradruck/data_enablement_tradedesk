@@ -21,27 +21,26 @@ Required modules: <ul>
                   </ul>
 
 Location:         <ul>
-                  <li>Deployment -> //prd-use1a-pr-34-ci-operations-01/home/bradley.ruck/Projects
-                                                                                    /data_enablement_trade_desk_attach/
-                  <li>Scheduled to run once a day, triggered by ActiveBatch-V11 under File/Plan -> DE_TDD_Attach
+                  <li>Deployment -> 
+                  <li>Scheduled to run once a day, triggered by ActiveBatch-V11 under File/Plan -> 
                   </ul>
 
 Source Code:      <ul>
-                  <li>//gitlab.oracledatacloud.com/odc-operations/DE_TradeDesk/
+                  <li>
                   </ul>
 
 LogFile Location: <ul>
-                  <li>//zfs1/Operations_limited/Data_Enablement/Data_License_TTD/TTDLogs/
+                  <li>
                   </ul>
                   
 JsonFile Location:<ul>
-                  <li>//zfs1/Operations_limited/Data_Enablement/Data_License_TTD/TTDLogs/Results/
+                  <li>
                   </ul>
 
 **Contact Information -**
 
 Primary Users:    <ul>
-                  <li>Data Enablement
+                  <li>
                   </ul>
 
 Lead Customer(s): <ul>
@@ -49,7 +48,7 @@ Lead Customer(s): <ul>
                   </ul>
 
 Lead Developer:   <ul>
-                  <li>Bradley Ruck (bradley.ruck@oracle.com)
+                  <li>Bradley Ruck
                   </ul>
 
 Date Launched:    <ul>
